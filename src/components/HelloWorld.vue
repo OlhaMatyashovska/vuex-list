@@ -113,7 +113,7 @@ html, #app, .home {
     color: #ff0076;
     cursor:pointer;
   }
-  /* button {
+  button {
     padding: 10px;
     margin-top: 30px;
     width: 100%;
@@ -121,5 +121,5 @@ html, #app, .home {
     border: 1px solid lightgray;
     outline: 0;
     cursor: pointer;
-} */
+}
 </style>
